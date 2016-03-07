@@ -1,4 +1,4 @@
-# sma-translations
+# sma-translation
 Stock Manager Advance RC3 - available languages
 
 __Available Languages__ (Complete/Partial)
