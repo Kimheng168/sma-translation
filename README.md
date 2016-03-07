@@ -1,5 +1,5 @@
 # sma-translation
-Stock Manager Advance RC3 - available languages
+__Stock Manager Advance RC3 - available languages__
 
 __Available Languages__ (Complete/Partial)
 + English -  default language
