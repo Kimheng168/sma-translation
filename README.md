@@ -2,12 +2,15 @@
 __Stock Manager Advance RC3 - available languages__
 
 __Available Languages__ (Complete/Partial)
-+ __English__ -  default language
-+ __Spanish__ - translated by __Ricardo Ramírez R.__
-+ __Thai__ - translated by __Mark Elayan__
++ English -  default language
++ Spanish - translated by Ricardo Ramírez R.
++ Thai - translated by Mark Elayan
 + __Vietnamese__ - translated by __LÊ THẾ VINH__
-+ __German__ - translated by __Patrick__
-+ __Arabic__ - translated by __Azmat Mehmood__
++ German - translated by Patrick
++ Arabic - translated by Azmat Mehmood
+
+__Revised by__
++ LÊ THẾ VINH
 
 __You can contribute, please follow these steps__
 * Fork the repository and clone it locally
